@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import Hello from './hello.js';
 
@@ -24,7 +24,14 @@ function App() {
 
 <hr/>
 <Hello skills='Web Design , Web Development ' tools='Git , Linux , WordPress'  />
+    
+    
+<hr/>
+<Hello skills='Web Design , Web Development ' tools='Git , Linux , WordPress'  />
+    
     </div>
+
+  
     
   );
 }
