@@ -11,8 +11,7 @@ function App() {
       <div >
     <h1 className='my'>Hello Qamar</h1>
     <p>Python Django Developer</p>
-    <img src='https://avatars2.githubusercontent.com/u/52790165?s=460&u=e1099db810cf0118780fa9b50e498bd711a891a8&v=4'></img>
-    </div>
+     </div>
       </header>
 
 <Hello skills='Web Design , Web Development ' tools='Git , Linux , WordPress'  />
